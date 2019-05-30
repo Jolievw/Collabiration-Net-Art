@@ -1,4 +1,4 @@
-# Collabiration-Net-Art
+# Collaboration-Net-Art
 Why not work together to make the web a prettier place? Let's work together and make something beautiful! 
 
 Hello There, 
